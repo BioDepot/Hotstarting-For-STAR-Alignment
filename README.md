@@ -129,6 +129,10 @@ There are three main steps for this hot-starting methond: generating genome indi
 
 This method has been tested using a standard DS13 v2 instance with 8 virtual CPUs and 56 Gb memory on Azure and a m4.4xlarge instance with 16 virtual CPUs and 64 Gb memory on AWS. Checkpoint files can be generated on one instance and restored on another instance. 
 
+## Publication
+A pre-print of our manuscript for this project has been submitted to BioRxiv. <br/>
+The link of the paper: <br/>
+https://www.biorxiv.org/content/early/2017/10/17/204495
 
 
 
