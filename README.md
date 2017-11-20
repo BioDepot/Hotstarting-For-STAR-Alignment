@@ -5,7 +5,7 @@ This project presents a hot-starting method for STAR Alignment. This approach is
 ### Prerequisites
 
 - 64-bit Ubuntu 16.04 Server (Linux kernel v3.11 or newer is required)
-- Docker 
+- Docker (Docker API version 1.25 or newer required for running CRIU in experimental mode)
 - CRIU
 - Physical machine or virtual machine with at least 32 GB memery available
 
