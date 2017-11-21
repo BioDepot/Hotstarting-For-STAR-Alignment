@@ -134,6 +134,8 @@ A pre-print of our manuscript for this project has been submitted to BioRxiv. <b
 The link of the paper: <br/>
 https://www.biorxiv.org/content/early/2017/10/17/204495
 
+## License <br/>
+This project is licensed under the terms of the MIT license.
 
 
 
